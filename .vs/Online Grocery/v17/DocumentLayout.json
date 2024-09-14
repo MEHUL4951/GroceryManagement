@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MEHUL_DOCUMENTS_GROCERYASPDB.MDF/True/SqlTable/dbo.Table.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|c:\\users\\mehul\\onedrive\\desktop\\online grocery\\online grocery\\online grocery\\view\\admin\\categories.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|solutionrelative:online grocery\\view\\admin\\categories.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\online grocery\\view\\admin\\categories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|solutionrelative:online grocery\\view\\admin\\categories.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\online grocery\\view\\admin\\sellers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|solutionrelative:online grocery\\view\\admin\\sellers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\online grocery\\view\\admin\\sellers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|solutionrelative:online grocery\\view\\admin\\sellers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\online grocery\\view\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|solutionrelative:online grocery\\view\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\online grocery\\view\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|solutionrelative:online grocery\\view\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MEHUL_DOCUMENTS_GROCERYASPDB.MDF/True/SqlTable/dbo.SellerTbl.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\online grocery\\view\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|solutionrelative:online grocery\\view\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\online grocery\\models\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|solutionrelative:online grocery\\models\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\online grocery\\view\\seller\\billing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|solutionrelative:online grocery\\view\\seller\\billing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\online grocery\\view\\admin\\sellers.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|solutionrelative:online grocery\\view\\admin\\sellers.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\online grocery\\view\\admin\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|solutionrelative:online grocery\\view\\admin\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\online grocery\\view\\admin\\products.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|solutionrelative:online grocery\\view\\admin\\products.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\online grocery\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|solutionrelative:online grocery\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\online grocery\\view\\admin\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|solutionrelative:online grocery\\view\\admin\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\online grocery\\view\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|solutionrelative:online grocery\\view\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\online grocery\\view\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|solutionrelative:online grocery\\view\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\online grocery\\view\\seller\\sellermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{21D362E5-2ED2-443A-B9AF-A54A0CBCEC8F}|Online Grocery\\Online Grocery.csproj|solutionrelative:online grocery\\view\\seller\\sellermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 249,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminMaster.Master",
+              "DocumentMoniker": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\AdminMaster.Master",
+              "RelativeDocumentMoniker": "Online Grocery\\View\\Admin\\AdminMaster.Master",
+              "ToolTip": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\AdminMaster.Master",
+              "RelativeToolTip": "Online Grocery\\View\\Admin\\AdminMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-06T15:49:35.078Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Table [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MEHUL_DOCUMENTS_GROCERYASPDB.MDF/True/SqlTable/dbo.Table.sql",
+              "ToolTip": "dbo.Table [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T16:41:57.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categories.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\Categories.aspx.cs",
+              "RelativeDocumentMoniker": "Online Grocery\\View\\Admin\\Categories.aspx.cs",
+              "ToolTip": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\Categories.aspx.cs",
+              "RelativeToolTip": "Online Grocery\\View\\Admin\\Categories.aspx.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwDIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:48:41.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.SellerTbl [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_MEHUL_DOCUMENTS_GROCERYASPDB.MDF/True/SqlTable/dbo.SellerTbl.sql",
+              "ToolTip": "dbo.SellerTbl [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T15:35:33.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Login.aspx",
+              "RelativeDocumentMoniker": "Online Grocery\\View\\Login.aspx",
+              "ToolTip": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Login.aspx",
+              "RelativeToolTip": "Online Grocery\\View\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-06T16:05:12.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sellers.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\Sellers.aspx.cs",
+              "RelativeDocumentMoniker": "Online Grocery\\View\\Admin\\Sellers.aspx.cs",
+              "ToolTip": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\Sellers.aspx.cs",
+              "RelativeToolTip": "Online Grocery\\View\\Admin\\Sellers.aspx.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:18:29.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Online Grocery\\View\\Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Login.aspx.designer.cs",
+              "RelativeToolTip": "Online Grocery\\View\\Login.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:47:59.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Online Grocery\\View\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Login.aspx.cs",
+              "RelativeToolTip": "Online Grocery\\View\\Login.aspx.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:19:57.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sellers.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\Sellers.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Online Grocery\\View\\Admin\\Sellers.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\Sellers.aspx.designer.cs",
+              "RelativeToolTip": "Online Grocery\\View\\Admin\\Sellers.aspx.designer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:19:31.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Products.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\Products.aspx.cs",
+              "RelativeDocumentMoniker": "Online Grocery\\View\\Admin\\Products.aspx.cs",
+              "ToolTip": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\Products.aspx.cs",
+              "RelativeToolTip": "Online Grocery\\View\\Admin\\Products.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:19:28.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Products.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\Products.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Online Grocery\\View\\Admin\\Products.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\Products.aspx.designer.cs",
+              "RelativeToolTip": "Online Grocery\\View\\Admin\\Products.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:19:27.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sellers.aspx",
+              "DocumentMoniker": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\Sellers.aspx",
+              "RelativeDocumentMoniker": "Online Grocery\\View\\Admin\\Sellers.aspx",
+              "ToolTip": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\Sellers.aspx",
+              "RelativeToolTip": "Online Grocery\\View\\Admin\\Sellers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-06T15:58:49.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\Models\\Functions.cs",
+              "RelativeDocumentMoniker": "Online Grocery\\Models\\Functions.cs",
+              "ToolTip": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\Models\\Functions.cs",
+              "RelativeToolTip": "Online Grocery\\Models\\Functions.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:38:34.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Products.aspx",
+              "DocumentMoniker": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\Products.aspx",
+              "RelativeDocumentMoniker": "Online Grocery\\View\\Admin\\Products.aspx",
+              "ToolTip": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\Products.aspx",
+              "RelativeToolTip": "Online Grocery\\View\\Admin\\Products.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-06T15:52:01.187Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\Web.config",
+              "RelativeDocumentMoniker": "Online Grocery\\Web.config",
+              "ToolTip": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\Web.config",
+              "RelativeToolTip": "Online Grocery\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-06T18:04:07.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Billing.aspx",
+              "DocumentMoniker": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Seller\\Billing.aspx",
+              "RelativeDocumentMoniker": "Online Grocery\\View\\Seller\\Billing.aspx",
+              "ToolTip": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Seller\\Billing.aspx",
+              "RelativeToolTip": "Online Grocery\\View\\Seller\\Billing.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-06T16:03:39.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SellerMaster.Master",
+              "DocumentMoniker": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Seller\\SellerMaster.Master",
+              "RelativeDocumentMoniker": "Online Grocery\\View\\Seller\\SellerMaster.Master",
+              "ToolTip": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Seller\\SellerMaster.Master",
+              "RelativeToolTip": "Online Grocery\\View\\Seller\\SellerMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-06T16:03:21.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "Online Grocery\\View\\Admin\\Dashboard.aspx",
+              "ToolTip": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\Dashboard.aspx",
+              "RelativeToolTip": "Online Grocery\\View\\Admin\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-06T15:59:20.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categories.aspx",
+              "DocumentMoniker": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\Categories.aspx",
+              "RelativeDocumentMoniker": "Online Grocery\\View\\Admin\\Categories.aspx",
+              "ToolTip": "C:\\Users\\mehul\\OneDrive\\Desktop\\Online Grocery\\Online Grocery\\Online Grocery\\View\\Admin\\Categories.aspx*",
+              "RelativeToolTip": "Online Grocery\\View\\Admin\\Categories.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-06T15:52:59.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
